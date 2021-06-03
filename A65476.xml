@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A few words in brief for the worldly teachers and worshippers to consider of, who think that God heareth sinners; and though they alwayes erre in their hearts, that they shal be saved. For the awakening of such, I shall shew them, with the light, as it is noted in the Scriptures of truth, that God heareth not sinners; neither shall they that alwayes err in their hearts from God's wayes, enter into God's rest; the Lord hath sworn it: and this was finished from the foundation of the world. And also, what that light is in men, that every man is lighted withal, from the writing of prophets, philosophers, and modern teachers: and how men have pitched besides the Eben-ezer, or stone of help.</title>
+            <author>West, Robert, b. ca. 1613.</author>
+         </titleStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65476</idno><idno type="EEBO-CITATION">99828994</idno>
+  <idno type="VID">33429</idno>
+  <idno type="EEBO-PROQUEST">2240859266</idno>
+  
+            <idno type="STC">Wing W1389</idno>
+            <idno type="STC">ESTC R217317</idno>
+            <idno type="PROQUEST">99828994</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828994e"/>
+            <note>(EEBO-TCP ; phase 2, no. A65476)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33429)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1860:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A few words in brief for the worldly teachers and worshippers to consider of, who think that God heareth sinners; and though they alwayes erre in their hearts, that they shal be saved. For the awakening of such, I shall shew them, with the light, as it is noted in the Scriptures of truth, that God heareth not sinners; neither shall they that alwayes err in their hearts from God's wayes, enter into God's rest; the Lord hath sworn it: and this was finished from the foundation of the world. And also, what that light is in men, that every man is lighted withal, from the writing of prophets, philosophers, and modern teachers: and how men have pitched besides the Eben-ezer, or stone of help.</title>
+                  <author>West, Robert, b. ca. 1613.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed and dated on pg. 15: Written by Robert West, 1663. The End.</note>
+                  <note>Signed and dated on pg. 11: Written in love by R. W. in the Devices, the 23d. day of the 2d. month, called April, in the year, 1663; followed by 4 pgs. of song and poem.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible --  Criticism, interpretation, etc. --  Early works to 1800.</term>
+               <term type="topical_term">Quotations --  Early works to 1800.</term>
+               <term type="topical_term">Theology --  Early works to 1800.</term>
+               <term type="topical_term">Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33429:1"/>
+            <p>A Few Words in brief FOR THE Worldly TEACHERS and WOR<g ref="char:EOLhyphen"/>SHIPPERS to consider of, who think that God heareth Sinners; and though they alwayes erre in their hearts, that they shal be saved.</p>
+            <p>For the awakening of such, I shall shew them, with the Light, as it is noted in the Scriptures of Truth, <hi>That God heareth not Sinners;</hi> neither shall they that alwayes err in their hearts from God's Wayes, enter into God's Rest; the Lord hath sworn it: And this was finished from the foundation of the World.</p>
+            <p>And also, What that Light is in men, that every man is lighted withal, from the Writing of <hi>Prophets, Philosophers,</hi> and <hi>Modern Teachers:</hi> and how men have pitched besides the <hi>Eben-ezer,</hi> or stone of help.</p>
+            <q>
+               <p>Thou shalt not hate thy Brother in thy heart: thou shalt in any wise rebuke thy Neighbour, and not suffer Sin upon him,</p>
+               <bibl>
+                  <hi>Levit. 19.17.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Them that sin, rebuke before all, that others may fear,</p>
+               <bibl>
+                  <hi>1 Tim. 5.20.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:33429:2"/>
+            <pb n="3" facs="tcp:33429:2"/>
+            <head>A few Words in brief for the <hi>worldly Teachers</hi> and <hi>Worshippers,</hi> to consider of, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S in the dayes of old, so now, there is great cause for the seeing men to lift up their voices as Trumpets, to shew the Teach<g ref="char:EOLhyphen"/>ers and the People their sins, and the Inhabitants of the Earth their transgres<g ref="char:EOLhyphen"/>sions, whether they will hear, or forbear to hear. Is it not a sin in you, O ye Teachers, who learn the People into such a Faith, which is contrary to the holy Scriptures; yea, unto the Articles of the Church of <hi>England,</hi> to wit, <hi>That men in sin shall be heard of God?</hi> Do not the Scriptures say, <hi>God heareth not Sinners?</hi> Joh. 9.31. And doth not <hi>David</hi> say, <hi>If I regard Iniquity in my heart, the Lord will not hear me?</hi> Psal. 66.18. And doth not the thirteenth Article of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> say, <hi>Works done before the Grace of Christ, and the in<g ref="char:EOLhyphen"/>spiration of his Spirit, are not pleasant to God?</hi> and in the twentieth Article, doth it not say, <hi>It is not lawful for the Church to ordain any thing that is contrary to God's Word written?</hi> [mark that.] May it not be said unto you, as <hi>Thomas Piearce</hi> lately said (whom men call Dr. <hi>Piearce</hi>) in his Sermon preached before the King: <q>But from the beginning it was not so; for from the foundation of the world it was finished, as it is written, <hi>Heb.</hi> 4.3. touching those that do err in their hearts, and do not
+<pb n="4" facs="tcp:33429:3"/>know God's Wayes, that they shall never enter into his Rest.</q>
+               <hi>Psal.</hi> 95.11. <hi>Heb.</hi> 3.10. Mark that; the Lord that changeth not hath sworn it. And touching the sacrifice of sinners; from the beginning God did not respect them: witness <hi>Cain, Gen.</hi> 4.5. for it is an Abomination to the Lord: much more, saith the Wise-man, when he bringeth it with a polluted mind, <hi>Prov.</hi> 21.27.</p>
+            <p>Qu. <hi>Doth not God hear Sinners? have not all sinned,</hi> saith the Scriptures, <hi>and come short of the glory of God, or</hi> (as it is in some Translations) <hi>have need of the glory of God?</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> Mark! Men in sin, or men sinning, God doth not hear; but if any man turn from sin to God, or re<g ref="char:EOLhyphen"/>pent of his sins, then he ceaseth from sin, and confesseth to God; then God heareth him, not else.</p>
+            <p>
+               <hi>Peter</hi> saith to <hi>Simon</hi> the Sorcerer (when he perceived he was in the gall of bitterness, and in the bond of ini<g ref="char:EOLhyphen"/>quity) <hi>Repent;</hi> Act. 8.22. And so doth Christ and all the Prophets. And then <hi>Peter</hi> saith, <hi>Pray, perhaps the thoughts of thy heart may be forgiven thee.</hi>
+            </p>
+            <p>God is a God of Order, and not of Confusion: he nor his Prophets do not exhort men in sin, first to Sacri<g ref="char:EOLhyphen"/>fices, or Prayer and Praises: Nay, but reproves them for it. The Lord (by <hi>Isaiah</hi>) saith to the Rulers and People of <hi>Israel,</hi> That their <hi>New-Moons, and Sabbaths, and Solemn Meetings, his Soul hateth,</hi> Isa. 1. and saith, —<hi>Who required them at your hands?</hi>
+            </p>
+            <p>Reason it self teacheth men, If they fore-see that a man intends to transgress against them, and yet comes to them to have them to forgive him, they will say, To what purpose? and so turn from him.</p>
+            <pb n="5" facs="tcp:33429:3"/>
+            <p> The Lord, by <hi>Moses,</hi> when <hi>Israel</hi> had polluted them<g ref="char:EOLhyphen"/>selves in the Land of <hi>Egypt,</hi> by serving of other gods; (which that they did, see <hi>Ezek.</hi> 23. &amp; <hi>Josh.</hi> 24.14.) I say, did not then require of them sacrifices or burnt-offer<g ref="char:EOLhyphen"/>ings, but said only, <hi>Obey my Voice, and I will be your God, and you shall be my People,</hi> Exod, 19.5. <hi>Jer.</hi> 7.23. <hi>Obe<g ref="char:EOLhyphen"/>dience</hi> to God's Voice, <hi>is better than Sacrifice; and to hear<g ref="char:EOLhyphen"/>ken, is better than the fat of Rams,</hi> 1 Sam. 15.22.</p>
+            <p>When <hi>Israel</hi>'s King and they were gone from hearing the Voice of the Lord, and yet were sacrificing, the Pro<g ref="char:EOLhyphen"/>phet <hi>Samuel</hi> saith to the King, <hi>To obey the Voice of the Lord, is better than Sacrifice.</hi> Mark that, O ye Rulers of <hi>England,</hi> The Voice of God is that in you which (by the Light) makes manifest sin to you. <hi>He that hath an ear to hear, let him hear.</hi> This was before the holy Scripture was in the hearts of the people to be known, and by <hi>Moses</hi> and the Prophets preached for Obedience of Faith, <hi>Deut.</hi> 30.14. Rom. 10.8.</p>
+            <p>You Teachers say, <hi>We have erred and gone astray from thy wayes.</hi> In this you say truly. Now I will shew you with the Light, how they that suffered before you pitch<g ref="char:EOLhyphen"/>ed besides <hi>Eben-ezer,</hi> or stone of help, (to wit) They that suffered for bearing their Testimony against things that are reprovable; to wit, Against the Inventions of the <hi>Papists:</hi> for what they suffered they are justified of God, they then minding the things that were reprova<g ref="char:EOLhyphen"/>ble, for which they suffered, and not minding so much what that was that made manifest the things in and to them, knew it not to be the living Word of God by which he made the Worlds; but because it co-operated with the holy Scripture, they thought it had been the written Scriptures; and therefore said as followeth, as it
+<pb n="6" facs="tcp:33429:4"/>is noted in <hi>Thomas Wilsons</hi> Dictionary, Pag. 738.</p>
+            <p>Martyr <hi>Parcas</hi> saith, <q>He doth interpret <hi>Word,</hi> for the matter and substance of Preaching or Sermon, which must not be any precept or tradition of men, which are but uncertain &amp; unlively; too dead to beget Faith; but the written Word or Scriptures of the Old and New Testament, which be indeed the lively Seed and firm Foundation of Faith, saith he.</q> Mark, here they pitched besides Christ, God's Foundation: For, as the Scripture saith, <hi>No other Foundation can any man lay, than that which is already laid;</hi> to wit, <hi>Christ,</hi> 1 Cor. 3.11. whose Name is called <hi>THE WORD OF GOD,</hi> Rev. 19.13. in the hearts of the People to be preached to them, <hi>Rom.</hi> 10.8. for obedience of Faith witnessed by the holy Scriptures; and thousands of the Lord's Peo<g ref="char:EOLhyphen"/>ple, whom he hath, through hearing his Voice, brought into Covenant with himself.</p>
+            <p>Besides the testimony of these, hear what the antient Philosophers say, as it is noted in their Books, and by <hi>Arthur Golden</hi> in his Book, called, <hi>The Truness of Christian Religion,</hi> in page 65. he saith, <hi>Orphers,</hi> which was one of the Antients of the Greeks, as it is noted, saith he, said, to wit, <q>Let thy eyes be upon the Word of God, and start not away from it; for that is it that made the World, and is immortal, and according to the old say<g ref="char:EOLhyphen"/>ing, is perfect of it self, and the perfecter of all things; and it cannot be seen but by the mind.</q> Mark that.</p>
+            <p>Again in page 63. he saith, that <hi>Mercury</hi> the Egypti<g ref="char:EOLhyphen"/>an saith, <q>That God is Light; and that this lightsome speech which proceedeth from the mind, to wit, the Fa<g ref="char:EOLhyphen"/>ther, is the Son of God: that (saith he) which heareth and seeth in thee, is the Word of the Lord.</q> Again in page 62. he saith, <hi>Zoroastrest</hi> the Caldean, who lived
+<pb n="7" facs="tcp:33429:4"/>about the time of <hi>Abraham,</hi> saith, <q>The Fatherly mind hath sowed and planted in our souls a certain resem<g ref="char:EOLhyphen"/>blance, begotten understanding; and that our wills be not acceptable unto him, until we awake out of forgetfulness, and bethink our selves again of the pure Fatherly Mark which is in us.</q> This agreeth with the thirteenth Article of the Church of <hi>England.</hi> Again saith, <q>That the same understanding being of power to beget and breed of it self, (they say) he hath sowed in man a spark [which is witnessed] we, say they, will kindle a Fire of his spark.</q> This was the Divinity of the antient Philosophers.</p>
+            <p>Again, hear what the modern Teachers say, touching the light in man. <hi>Thomas Wilson</hi> in his Dictionary, page 671. saith thus, <q>The light of nature left in man, since his fall, to help him to know God, so far as to leave him without excuse; but, not so far as is needful to Salvati<g ref="char:EOLhyphen"/>on. Mark: here it is noted, that the light in man is left him to know God.</q> If by the light in man, a man may know God, as it is witnessed, then that light must be the Son of God: for, as the Scripture saith, Luke 10.22. <hi>No man knoweth the Father save the Son, and he to whom he will reveal Him:</hi> if so, then the Light in man is God's Salvation.</p>
+            <p>Again, <hi>Anthony Burges,</hi> in his Book <hi>touching the Light of nature,</hi> in Chapter 7. page 67. saith, <q>It is a relict or remnant of the Image of God:</q> if so, as it is witnes<g ref="char:EOLhyphen"/>sed, then it must be, according unto the holy Scripture, the Son of God, for <hi>He is the express Image of his Fa<g ref="char:EOLhyphen"/>thers Substance.</hi> Heb. 1.3.</p>
+            <p>Much more might be said from the Writings of many; but by what is written may appear, the Lord hath been
+<pb n="8" facs="tcp:33429:5"/>as a stranger in the Earth, (to wit, Man) And the holy Scriptures, by which the Lord hath wrought in, and un<g ref="char:EOLhyphen"/>to men, have been taken for the lively Seed or Word, and firm Foundation of God. The cause was, (as is be<g ref="char:EOLhyphen"/>fore written) and the cause is now; because men stumble at the Stone or Light of God in themselves. This is, I say, the cause they have not known the Word, that was in the beginning with God, by which all things are made, which is God, <hi>John</hi> 1. and that which may be known of him, Rom. 1.19. in the hearts of themselves to be known (if obeyed) the Gospel of our Salvation: The Jews (as saith Christ) thought in the Scriptures to have Eternal Life, <hi>John</hi> 5.30, 40. The Teachers of this latter age have said unto me, to wit, <hi>Presbyterians,</hi> [but the Lord hath removed them] that God was to be found in the Scrip<g ref="char:EOLhyphen"/>tures, not in man. So by their own sayings, it is mani<g ref="char:EOLhyphen"/>fest, that their thoughts are as the Pharisees was, to whom Christ said, <hi>Ye will not come to me, who am come a Light into the World;</hi> and as <hi>John</hi> saith, <hi>Lighteth every Man that cometh into the world:</hi> Yea, as saith the Wise-man, <hi>The poor, and the deceitful man, the Lord lighteth both their eyes; he that doth believe on the Son of God, hath the Witness in himself</hi> (1 John 5.10 John 3.37.) which is a greater Testimony than man: <hi>But as for every spirit that confes<g ref="char:EOLhyphen"/>eth not that Jesus Christ is come in the flesh, that spirit is</hi> (as Scripture saith) <hi>Antichrist,</hi> 1 John 3.3. or, as <hi>Paul</hi> saith, (speaking of them that did not know Jesus Christ in them, who are one with that spirit) <hi>Reprobates,</hi> 2 Cor. 13.5.</p>
+            <p>Quest. <hi>Is not there something within you that maketh manifest to you, things reprovable?</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> If ye say, Yea, but that is the Law, as some have said.</p>
+            <pb n="9" facs="tcp:33429:5"/>
+            <p> Quest. <hi>Of what? God or Man.</hi>
+            </p>
+            <p>
+               <hi>Thomas Pearce</hi> saith in his Book, <hi>touching Election and Reprobation,</hi> in page 14. <hi>That the Being of God is a kind of Law to his working:</hi> This saying is true. <hi>Esay</hi> saith, <hi>The Hills shall wait for his Law,</hi> Isa. 42.4. And in <hi>Mat.</hi> 12.21. Christ alluding to that place, saith, <hi>In his Name shall the Gentiles trust:</hi> And in <hi>Psal.</hi> 2.7. in some Translations it's thus, <hi>I will preach the Law; whereof the Lord hath said unto me, Thou art my Son, this day have I begotten thee.</hi> The Law which <hi>David</hi> spake of, was perfect, converting the soul, making wise the simple. God's Son, Christ Jesus, the Light of the World, is the same to day as he was yesterday, and for ever: although he hath been prea<g ref="char:EOLhyphen"/>ched under differences of sounds or names as he hath appeared in and unto the Children of men; therefore is his Name rightly called, <hi>I AM THAT I AM,</hi> Exod. 3.14. <hi>There are differences of Ministrations, but one Lord,</hi> 1 Cor. 12.5. which names of sounds relate, (which the Son of God hath been preached by) sometimes to his Nature, which is one with God, to wit, <hi>Light;</hi> and sometimes to his Offices he doth in and for the Children of men; and that is wonderful, <hi>Isa.</hi> 9.6. Mark, in men that are Carnal, and under Sin, he in his Operations to them makes manifest Sin: Here his Being is, as <hi>Thomas Pearce</hi> saith, a kind of law to his work: For as the Scrip<g ref="char:EOLhyphen"/>ture saith, <hi>The Law is spiritual,</hi> and <hi>By the Law is the knowledge of Sin:</hi> So by the Son of God being in them, they see sin: Or as Christ saith, <hi>If I had not come and spoken to them, they had had no Sin; but now they have no cloak for their Sin,</hi> John 15.22. Heb. 12.25.</p>
+            <p>Quest. <hi>Doth Christ now speak immediately in and to men?</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> Yea, that in man that maketh manifest things
+<pb n="10" facs="tcp:33429:6"/>reprovable, is as the Scripture saith, the Light: He that hath an ear to hear let him hear.</p>
+            <p>Quest. <hi>Was ever the Son of God preached to be before the Virgin Mary conceived that holy Thing, as the Angel calls him,</hi> Luke 1.35. <hi>seeing it is written, before that He was preached in man by Prophets and Philosophers, long before the Virgin Mary conceived that holy Thing?</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> Christ saith, as 'tis noted in <hi>John</hi> 8.58. <hi>Before Abraham was, I am.</hi> And <hi>Stephen</hi> saith, Acts 7. <hi>This is He that was in the Church in the Wilderness,</hi> the just <hi>One,</hi> whom now ye have been the <hi>Betrayers</hi> and <hi>Murderers.</hi>
+            </p>
+            <p>Quest. <hi>What acceptance had their heavenly Doctrine then?</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> They took up stones then to stone Christ in the Temple, <hi>John</hi> 8.59. But <hi>Stephen</hi> they stoned to death, <hi>Acts</hi> 7.</p>
+            <p>Again, <hi>John</hi> saith, <hi>He was,</hi> to wit, <hi>Christ, in the world before me,</hi> John 1.15. And <hi>Paul</hi> saith, That the Church in the Wilderness did all eat of the same spiritual meat, and did all drink of the same spiritual drink, and that the Rock that followed them was Christ, 1 <hi>Cor.</hi> 10. — Christ saith, <hi>It is the Spirit that quickneth; the flesh pro<g ref="char:EOLhyphen"/>fiteth nothing.</hi> It is the Spirit or Life of Jesus that hath Been spoken of; which is, as <hi>John</hi> saith, <hi>The Light of Men,</hi> John 1.4. and which is as <hi>Paul</hi> saith; <hi>and where<g ref="char:EOLhyphen"/>of I am a Witness, that whereby we shall be saved;</hi> to wit; <hi>The Life of Jesus,</hi> Rom. 5.10. which is now revea<g ref="char:EOLhyphen"/>led to thousands in their mortal bodies; Glory be to God for ever; who are witnesses, that the Son of God is come, and hath given us an understanding to know Him, that is true, that so by his knowledge we may escape the pollu<g ref="char:EOLhyphen"/>tion that is in the world, and preach him for obedience
+<pb n="11" facs="tcp:33429:6"/>of Faith to all Nations, that so the Earth may be full of the knowledge of the Lord, as the Lord hath spoken by his servant <hi>Esay,</hi> and that the Earth by him may be established, and come to hear that Voice, to wit, the Lords, wich <hi>Adam</hi> heard in the beginning; the hearing of which converteth to God; and causeth the dead to live; and bringeth into <hi>one fold</hi> out of the many things: All that follow it according to what is written, <hi>they shall come from the East and the West, and the North &amp; the South, and shall sit down with Abraham, Isaac and Jacob, in the Kingdom of God; whose Kingdom is not of this World; nei<g ref="char:EOLhyphen"/>ther is it born of blood, nor of the will of the flesh, nor of the will of man, but of God.</hi> And these things are writ<g ref="char:EOLhyphen"/>ten, that men may believe in the Light or Kingdom of God; of which there is a seed in themselves, and not take the naming <hi>Jesus</hi> for <hi>Jusus,</hi> as is manifest; witnes<g ref="char:EOLhyphen"/>sed by the bowing of the people when that Name is named, where the divine Nature is not obeyed.</p>
+            <p>Now, <hi>Blessed is the Man that walketh not in the Counsel of the Ungodly, nor standeth in the way of Sinners, nor sit<g ref="char:EOLhyphen"/>teth in the seat of the Scornful</hi> Psal. 1.1. <hi>But as for the sinner, though an hundred years old, he shall be accursed,</hi> Isa. 65.20.</p>
+            <byline>Written in love by <hi>R. W.</hi> in the <hi>Devices,</hi>
+               <date>the 23d. day of the 2d. Month, called <hi>April,</hi> in the year, 1663.</date>
+            </byline>
+         </div>
+         <div type="poem">
+            <pb n="12" facs="tcp:33429:7"/>
+            <lg>
+               <l>BY what is writ may now appear,</l>
+               <l>that men in Sin God doth not hear.</l>
+               <l>This Doctrin's old, it is not new;</l>
+               <l>witness'd by Prophets; and 'tis true.</l>
+            </lg>
+            <lg>
+               <l>By what is said may now appear,</l>
+               <l>as touching them that alwayes err;</l>
+               <l>The Lord hath sworn, as Prophets test,</l>
+               <l>They shall not enter into rest.</l>
+            </lg>
+            <lg>
+               <l>By what's declar'd may now be known,</l>
+               <l>The Light is Christ that sin hath shown:</l>
+               <l>Though in a manger he hath lain,</l>
+               <l>Whiles men have sin'd; and death hath rain'd.</l>
+            </lg>
+            <lg>
+               <l>Oh Death! thy death is arising,</l>
+               <l>Which glads my Soul, and makes me sing;</l>
+               <l>Thy time must now come to an end,</l>
+               <l>Though long to sin thou'st been a friend.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="13" facs="tcp:33429:7"/>
+            <head>A Song of the Lord: And his present Dispensation, which will effect man's Restoration; but touching the things not made by God, its desolation.</head>
+            <lg>
+               <head>1.</head>
+               <l>The Lord is taking up the Isles, and their foundations shake;</l>
+               <l>Because he will be King himself, the Kingdoms now he'l take.</l>
+            </lg>
+            <lg>
+               <head>2.</head>
+               <l>Things made <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y man now shake will he; because he them not made:</l>
+               <l>That so the sons of men may see, that what man makes will fade.</l>
+            </lg>
+            <lg>
+               <head>3.</head>
+               <l>Kingdoms are his, he doth no wrong in taking to his own;</l>
+               <l>Therefore ye Princes at his feet, see that ye cast your Thrones.</l>
+            </lg>
+            <lg>
+               <head>4.</head>
+               <l>The Lord's of more antiquity, than Images (know all)</l>
+               <l>Which issues from the Elements; before him they must fall.</l>
+            </lg>
+            <lg>
+               <head>5.</head>
+               <l>He is that Light within you all; before him all must bow:</l>
+               <l>Why do ye then oppose the Lord, and's Saints imprison now?</l>
+            </lg>
+            <lg>
+               <head>6.</head>
+               <l>God hath an end in what you do, he will be glorifi'd</l>
+               <l>In the deliv'ring of his Saints, which now by you are try'd.</l>
+            </lg>
+            <lg>
+               <head>7.</head>
+               <l>Awake out of forgetfulness, in which you long have lain,</l>
+               <l>And the Just One remember now, which in you hath been slain.</l>
+            </lg>
+            <lg>
+               <head>8.</head>
+               <l>That so by Him your lives may be preserved from death's state,</l>
+               <l>Before ye go away from hence; for else 'twill be too late.</l>
+            </lg>
+            <lg>
+               <head>9.</head>
+               <l>Therefore awake, awake I say, whilst the Lord's Trumpet sound;</l>
+               <l>Lest Vengeance on you comes for sins, which do so much abound.</l>
+            </lg>
+            <lg>
+               <head>10.</head>
+               <l>Saints bodies you have overcome, the cause I will you show;</l>
+               <l>That so no glory-they may take: This is the cause now know.</l>
+            </lg>
+            <lg>
+               <head>11.</head>
+               <l>Though overcome the Saints now be, as hath before been said,</l>
+               <l>Yet in this Cloud shall they ascend: you then will be be afraid.</l>
+            </lg>
+            <lg>
+               <pb n="14" facs="tcp:33429:8"/>
+               <head>12.</head>
+               <l>God will himself deliver his, ev'n for his own Names sake.</l>
+               <l>Though now under a Cloud they be; that flesh no glory take.</l>
+            </lg>
+            <lg>
+               <head>13.</head>
+               <l>Lift up your heads ye holy ones, Redemption-day draws near,</l>
+               <l>Your life which hid in God hath been, will suddenly appear.</l>
+            </lg>
+            <lg>
+               <head>14.</head>
+               <l>Yea, unto men will Christ be King, and his with him shall reign;</l>
+               <l>Of his Kingdom there is no end, for he will it maintain.</l>
+            </lg>
+            <lg>
+               <head>15.</head>
+               <l>The Light is come in Saints to reign, and they shall reign with he,</l>
+               <l>And judge the dead works of Nat<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ons, though angry they shall be.</l>
+            </lg>
+            <lg>
+               <head>16.</head>
+               <l>So shall their heavens pass away, and earth, which they have made,</l>
+               <l>Being on fire with fervent heat, away now shall they fade.</l>
+            </lg>
+            <lg>
+               <head>17.</head>
+               <l>But Earth and Heaven of the Lord's, before him shall remain;</l>
+               <l>For he to it marri'd will be, and in it he will raign.</l>
+            </lg>
+            <lg>
+               <head>18.</head>
+               <l>Though Dragon roar, and Beast also, and Prophet false the tail,</l>
+               <l>Yet in the Lake they all shall go, of it they shall not fail.</l>
+            </lg>
+            <lg>
+               <head>19.</head>
+               <l>For <hi>Jerusalem's</hi> coming down, which hath been out of sight,</l>
+               <l>And hath in it her foundation, which is the Lord of Light.</l>
+            </lg>
+            <lg>
+               <head>20.</head>
+               <l>The Glory of this latter House, all others shall excel;</l>
+               <l>No shadow in it doth appear; God's Glory doth it fill.</l>
+            </lg>
+            <lg>
+               <head>21.</head>
+               <l>There is no Temple made with hands; the Lord's her Temple bright:</l>
+               <l>Wax Candles in her are not found; for why? the Lamb's her light.</l>
+            </lg>
+            <lg>
+               <head>22.</head>
+               <l>They that are sav'd in her Light walk, and of it they do sing,</l>
+               <l>That so the Princes unto it their honours they may bring.</l>
+            </lg>
+            <lg>
+               <head>23.</head>
+               <l>
+                  <hi>Esay</hi> of old, heard, and foretold, of the Songs of the Isles:</l>
+               <l>Hear now ye <hi>Jews,</hi> and this peruse, and cease ye from your wiles:</l>
+            </lg>
+            <lg>
+               <head>24.</head>
+               <l>That so with we gather'd you be, by Him that is the Light,</l>
+               <l>Which is within to be reveal'd; for ye are his by right.</l>
+            </lg>
+            <lg>
+               <pb n="15" facs="tcp:33429:8"/>
+               <head>25.</head>
+               <l>So that the Earth filled may be, as Prophets have foretold,</l>
+               <l>Now with the knowledge of the Lord, that he may be the fold.</l>
+            </lg>
+            <lg>
+               <head>26.</head>
+               <l>The Light's of more antiquity, than shadows; (know ye all)</l>
+               <l>Makes them perfect that thereto come: before him all must fall.</l>
+            </lg>
+            <lg>
+               <head>27.</head>
+               <l>The holy Scriptures are but young, in respect of the Day,</l>
+               <l>And do declare Him in mans heart, who is the Truth and Way.</l>
+            </lg>
+            <lg>
+               <head>28.</head>
+               <l>Cease then from man, and turn ye in to Him that sheweth sin;</l>
+               <l>For it's the Lord, as Scripture saith, though h'ath a stranger bin.</l>
+            </lg>
+            <lg>
+               <head>29.</head>
+               <l>Mans spirit know, is not God's Seed, but the life of his flesh,</l>
+               <l>To which God's Seed doth minister, to raise man out of death.</l>
+            </lg>
+            <lg>
+               <head>30.</head>
+               <l>Cast up, cast up the stumbling blocks, remove out of the way</l>
+               <l>Things which have rais'd up prejudice against the Truth, I say.</l>
+            </lg>
+            <lg>
+               <head>31.</head>
+               <l>Set not one Manifestation of God against another,</l>
+               <l>Which hath his course indeed and cease: for that wil rent a brother.</l>
+            </lg>
+            <lg>
+               <head>32.</head>
+               <l>Keep Unity all with the Light, and Enmity will wither:</l>
+               <l>So we as one by it shall be, Servants of God together.</l>
+            </lg>
+            <lg>
+               <head>33.</head>
+               <l>Then wil the Lord restrain man's wrath, which shall turn to his praise;</l>
+               <l>That we 'thout fear in Righteousness, may serve him all our dayes.</l>
+            </lg>
+            <lg>
+               <head>34.</head>
+               <l>He's my Song and Salvation; and I am his by right,</l>
+               <l>For to exalt and praise his Name, and serve him day and night.</l>
+            </lg>
+            <byline>Written by <hi>Robert West,</hi> 1663.</byline>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
